@@ -1,4 +1,4 @@
-# Gaussian-elimination]
+# Gaussian-elimination
 
 To sovle x from the equation Ax = B
 
